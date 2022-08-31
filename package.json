@@ -2,7 +2,7 @@
   "name": "angular-shopeame-back",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "json-server --watch db.json --port 3000"
